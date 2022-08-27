@@ -1,0 +1,95 @@
+.work .row {
+    text-align: center;
+    margin: 40px 0;
+}
+.work .row h6 {
+    text-transform: uppercase;
+}
+.work .row h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+.work .row hr {
+    height: 2px;
+    width: 15%;
+    margin: 0 auto 15px;
+    background-color: #000000;
+}
+.work .row p {
+    font-size: 14px;
+    color: #666;
+    margin: 0 15% 40px;
+}
+.work .row .active {
+    color: #ffe600;
+}
+.work .row li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.work .row li:hover {
+    color: #ffe600;
+    transition: 0.3s;
+}
+.work .w-100 {
+    margin: 40px 0;
+    border-radius: 10px;
+}
+.work .row .info {
+    margin: 70px 0;
+}
+.work .row .info button {
+    background-color: #ffe600;
+    color: #000;
+    font-weight: 500;
+    border: none !important;
+    box-shadow: none !important;
+}
+.work .row svg {
+    background-color: #ffe600;
+    color: #FFF;
+    width: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 0 20px;
+    cursor: pointer;
+}
+.work .row button {
+    background-color: #ffe600;
+    color: #000;
+    font-weight: 500;
+    border: none !important;
+    box-shadow: none !important;
+}
+.work .numbers {
+    background-color: #122b36;
+    color: #FFF;
+    text-align: center;
+    padding: 20px 0;
+}
+.work .numbers p {
+    font-size: 14px;
+    color: #FFF;
+}
+.work .numbers .num {
+    width: 220px;
+    height: 100px;
+    margin: auto;
+    border: #ffe600 1px solid;
+}
+.work .numbers .num h2 {
+    font-size: 35px;
+    margin: 15px 0 0;
+}
+.work .numbers .num p {
+    color: #ffe600;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+}

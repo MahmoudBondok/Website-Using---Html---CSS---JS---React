@@ -1,0 +1,72 @@
+.contact .row {
+    text-align: center;
+    margin: 40px 0;
+}
+.contact .row h6 {
+    text-transform: uppercase;
+}
+.contact .row h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+.contact .row hr {
+    height: 2px;
+    width: 15%;
+    margin: 0 auto 15px;
+    background-color: #000000;
+}
+.contact .row p {
+    font-size: 14px;
+    color: #666;
+    margin: 0 15% 40px;
+}
+.contact .row h4 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 10px 0;
+}
+.contact .row svg {
+    font-size: 30px;
+    color: #ffe600;
+}
+.contact .sub {
+    background-color: #122b36;
+    padding: 20px 0 10px;
+}
+.contact .row input {
+    background-color: #122b36;
+    border: #FFF 1px solid;
+    color: #ffe600;
+    padding: 10px;
+    width: 349px;
+    margin: 20px auto;
+    outline: none;
+}
+.contact .row .desc {
+    width: 100%;
+    height: 150px;
+}
+.contact .row button {
+    background-color: #ffe600;
+    color: #000;
+    font-weight: 600;
+    margin: 15px 0 0;
+    width: 180px;
+    height: 45px;
+    border: none;
+    box-shadow: none !important;
+}
+.contact .sub h6 {
+    color: #FFF;
+}
+.contact .sub h2 {
+    color: #FFF;
+}
+.contact .sub hr {
+    background-color: #FFF;
+}
+.contact .sub p {
+    color: #FFF;
+}

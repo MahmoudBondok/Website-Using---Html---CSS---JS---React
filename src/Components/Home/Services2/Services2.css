@@ -1,0 +1,37 @@
+.services2 {
+    background-color: #122b36;
+}
+.services2 .info-head {
+    margin: 25px 0 15px;
+    text-align: center;
+}
+.services2 .info-head h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffe600;
+}
+.services2 .info-head p {
+    width: 35%;
+    margin: 20px auto;
+    font-size: 14px;
+    color: #FFF;
+}
+.services2 .last {
+    text-align: center;
+    color: #ffe600;
+}
+.services2 .last svg {
+    color: #ffe600;
+    font-size: 30px;
+}
+.services2 .last h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #FFF;
+    margin: 15px 0;
+}
+.services2 .last p {
+    color: #FFF;
+    font-size: 14px;
+    margin: 0 0 30px;
+}

@@ -1,0 +1,127 @@
+.about .row {
+    text-align: center;
+    margin: 40px 0;
+}
+.about .row h6 {
+    text-transform: uppercase;
+}
+.about .row h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+.about .row hr {
+    height: 2px;
+    width: 15%;
+    margin: 0 auto 15px;
+    background-color: #000000;
+}
+.about .row p {
+    font-size: 14px;
+    color: #666;
+    margin: 0 15% 40px;
+}
+.about .abouts {
+    display: flex;
+    align-items: center;
+}
+.about .abouts .icon {
+    background-color: #ffe600;
+    color: #FFF;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about .abouts .info-title {
+    text-align: start;
+    margin: 30px 0;
+}
+.about .abouts .info-title P {
+    margin: 0;
+    width: 70%;
+}
+.about .title {
+    margin: 30px 0;
+}
+.about .card {
+    width: 250px;
+    margin: 0 5px 0 auto;
+    border: none !important;
+    border-bottom: #ffe600 1px solid !important;
+}
+.about .card h3 {
+    text-transform: uppercase;
+    color: #ffe600;
+    font-size: 20px;
+    margin: 5px;
+}
+.about .card p {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500;
+}
+.about .desc {
+    background-color: #122b36;
+    color: #FFF;
+    padding: 50px 0;
+}
+.about .desc .client .text {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 19% 15px;
+}
+.about .desc .client .text h4 {
+    text-transform: uppercase;
+    color: #ffe600;
+    font-size: 18px;
+}
+.about .desc .client .text .btn-close {
+    background-color: #FFF;
+    border: none !important;
+    box-shadow: none !important;
+    font-size: 14px !important;
+}
+.about .desc .title-col {
+    margin: 0 19% 0 auto;
+    width: 100%;
+}
+.about .desc .title-col p {
+    font-size: 14px;
+    width: 696px;
+    margin: auto;
+    text-align: start;
+}
+.about .desc .title-col .icon {
+    text-align: center;
+}
+.about .desc .title-col .icon svg {
+    margin: 15px 10px;
+    cursor: pointer;
+}
+.about .desc .skills .title {
+    text-align: center;
+}
+.about .desc .skills .title h4 {
+    text-transform: uppercase;   
+}
+.about .desc .skills .title p {
+    font-size: 14px;
+}
+.about .desc .skills .progres {
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}
+.about .desc .skills .progress {
+    margin: 5px 0;
+}
+.about .desc .skills .progres span {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+}

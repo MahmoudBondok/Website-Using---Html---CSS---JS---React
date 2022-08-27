@@ -1,0 +1,27 @@
+.clients .row {
+    text-align: center;
+    margin: 40px 0;
+}
+.clients .row h6 {
+    text-transform: uppercase;
+}
+.clients .row h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+.clients .row hr {
+    height: 2px;
+    width: 15%;
+    margin: 0 auto 15px;
+    background-color: #000000;
+}
+.clients .row p {
+    font-size: 14px;
+    color: #666;
+    margin: 0 15% 40px;
+}
+.clients .row img {
+    margin: 20px 0;
+    width: 100px;
+}
